@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+## Final app
+
+Website:
+
+https://ai-object-detector-with-next-js.vercel.app/
+
+Photo:
+
+<img width="1050" alt="Screenshot 2025-02-10 at 10 27 45" src="https://github.com/user-attachments/assets/79e71d74-7fbd-4c90-b505-827da062904a" />
+
+
 ## Getting Started
 
 First, run the development server:
