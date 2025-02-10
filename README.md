@@ -1,48 +1,82 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# AI Object Detector with Next.js
 
-## Final app
+This is a Next.js project bootstrapped with create-next-app. It implements an AI-based object detection system using Next.js and machine learning models.
 
-Website:
+## 🚀 Live Demo
 
-https://ai-object-detector-with-next-js.vercel.app/
+You can try out the live version of the application here: https://ai-object-detector-with-next-js.vercel.app/
 
-Photo:
+## 📸 Screenshot
 
 <img width="1050" alt="Screenshot 2025-02-10 at 10 27 45" src="https://github.com/user-attachments/assets/79e71d74-7fbd-4c90-b505-827da062904a" />
 
 
-## Getting Started
+## 📌 Features
 
-First, run the development server:
+Real-time object detection using AI models
 
-```bash
+Responsive UI built with Next.js and Tailwind CSS
+
+Optimized for performance and scalability
+
+Easily deployable on Vercel
+
+## 🛠 Installation
+
+To set up the project locally, follow these steps:
+
+Clone the repository:
+
+git clone https://github.com/your-username/AI-Object-Detector-with-Next-js.git
+cd AI-Object-Detector-with-Next-js
+
+Install dependencies:
+
+npm install
+# or
+yarn install
+
+Run the development server:
+
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000 in your browser to see the app.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🖥 Usage
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Upload an image or use your webcam for object detection.
 
-## Learn More
+The AI model will analyze the image and highlight detected objects.
 
-To learn more about Next.js, take a look at the following resources:
+Adjust settings as needed for better accuracy.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📦 Deployment
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+To deploy the project on Vercel:
 
-## Deploy on Vercel
+Install the Vercel CLI:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+npm install -g vercel
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Run the deployment command:
+
+vercel
+
+## 🤝 Contributing
+
+Contributions are welcome! To contribute:
+
+Fork the repository.
+
+Create a new branch: git checkout -b feature-branch.
+
+Commit your changes: git commit -m "Add new feature".
+
+Push to the branch: git push origin feature-branch.
+
+Open a pull request.
+
+
