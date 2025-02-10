@@ -27,22 +27,22 @@ Easily deployable on Vercel
 To set up the project locally, follow these steps:
 
 Clone the repository:
-
+```
 git clone https://github.com/your-username/AI-Object-Detector-with-Next-js.git
 cd AI-Object-Detector-with-Next-js
-
+```
 Install dependencies:
-
+```
 npm install
 # or
 yarn install
-
+```
 Run the development server:
-
+```
 npm run dev
 # or
 yarn dev
-
+```
 Open http://localhost:3000 in your browser to see the app.
 
 ## 🖥 Usage
@@ -58,13 +58,13 @@ Adjust settings as needed for better accuracy.
 To deploy the project on Vercel:
 
 Install the Vercel CLI:
-
+```
 npm install -g vercel
-
+```
 Run the deployment command:
-
+```
 vercel
-
+```
 ## 🤝 Contributing
 
 Contributions are welcome! To contribute:
